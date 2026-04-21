@@ -130,10 +130,4 @@ Docker + Kubernetes friendly
 
 Contributions are welcome!
 
-# Fork the repo
-# Create a feature branch
-# Commit changes
-# Open a Pull Request
-📜 License
 
-This project is open-source and available under the MIT License.
